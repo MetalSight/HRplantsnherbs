@@ -1,1 +1,1 @@
-idk how GitHub works. dump zip file contains the textures, hopefully. The aloevera_0.json is an example json file I used as a block model for every crop. I am not skilled enough in coding, especially minecraft mods, to know how to apply the same model to each stage of every plant AND have crop properties, etc.
+idk how GitHub works. The aloevera_0.json is an example json file I used as a block model for every crop. I'm not yet skilled enough to know how assign the same model to all stages of all plants at the same time.
